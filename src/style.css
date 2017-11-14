@@ -1,0 +1,8 @@
+.container{width: 90%; margin: 0 auto; padding: 0;}
+
+h1{color: green; font-size: 50px; margin: 20px 0; text-align: center;}
+form{margin: 0 auto; display: table;}
+table{margin: 0 auto}
+th{font-size: 20px}
+td{padding: 0 20px}
+button{margin: 10px}
